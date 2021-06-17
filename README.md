@@ -35,9 +35,11 @@
 - Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_08_AzureFirewall.md
 - Youtube: https://youtu.be/vGE7GOfqors
 
-LAB_09_ConfiguringandSecuringACRandAKS.MD
+### LAB_09_Configuring and Securing ACR and AKS.MD
+- Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_09_ConfiguringandSecuringACRandAKS.MD
+- Youtube: https://youtu.be/bcsywMJOYm0
 
-LAB_10_KeyVaultImplementingSecureDatabysettingupAlwaysEncrypted.md
+### LAB_10_KeyVault Implementing Secure Data by settingup AlwaysEncrypted.md
 
 LAB_11_SecuringAzureSQLDatabase.MD
 
