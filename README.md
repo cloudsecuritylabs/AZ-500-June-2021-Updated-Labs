@@ -3,8 +3,8 @@
 
 
 LAB_01_RBAC.md / Lab 01: Role-Based Access Control
-https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_01_RBAC.md
-Youtube: https://youtu.be/XTX9cU4whKI
+- https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_01_RBAC.md
+- Youtube: https://youtu.be/XTX9cU4whKI
 
 
 LAB_02_AzurePolicy.md
