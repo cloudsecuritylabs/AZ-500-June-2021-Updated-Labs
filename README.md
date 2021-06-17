@@ -27,9 +27,13 @@
 - github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_06_ImplementDirectorySynchronization.md
 - Youtube: https://youtu.be/I_ki4_Al3WY
 
-### LAB_07_NSGs.md
+### LAB_07_NSGs.md - AZ500 Azure Security Technologies Lab 07: Network Security Groups and Application Security Groups
+- Github:https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_07_NSGs.md
+- Youtube: https://youtu.be/aXDFLFUBKDI
 
-LAB_08_AzureFirewall.md
+### LAB_08_AzureFirewall.md
+- Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_08_AzureFirewall.md
+- Youtube: https://youtu.be/vGE7GOfqors
 
 LAB_09_ConfiguringandSecuringACRandAKS.MD
 
