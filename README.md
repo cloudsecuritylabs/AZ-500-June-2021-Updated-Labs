@@ -52,9 +52,15 @@
 - Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_12_SecuringAzureStorage.MD
 - Youtube: https://youtu.be/GdxT7kAoFLc
 
-LAB_13_Azure Monitor.md
+### LAB_13_Azure Monitor.md
+- Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_13_Azure%20Monitor.md
+- Youtube: https://youtu.be/U-TjKssRah0
 
-LAB_14_Security Center.md
+### LAB_14_Security Center.md
+- Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_14_Security%20Center.md
+- Youtube: https://youtu.be/G4AZSdenok4
 
-LAB_15_Azure Sentinel.md
+### LAB_15_Azure Sentinel.md
+- Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_15_Azure%20Sentinel.md
+- Youtube: https://youtu.be/cgrE4DeIlYY
 
