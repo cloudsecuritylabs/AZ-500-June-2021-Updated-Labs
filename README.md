@@ -48,7 +48,9 @@
 - Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_11_SecuringAzureSQLDatabase.MD
 - Youtube: https://youtu.be/cpANzPsW4U0
 
-LAB_12_SecuringAzureStorage.MD
+### LAB_12_Securing Azure Storage.MD
+- Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_12_SecuringAzureStorage.MD
+- Youtube: https://youtu.be/GdxT7kAoFLc
 
 LAB_13_Azure Monitor.md
 
