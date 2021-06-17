@@ -40,8 +40,13 @@
 - Youtube: https://youtu.be/bcsywMJOYm0
 
 ### LAB_10_KeyVault Implementing Secure Data by settingup AlwaysEncrypted.md
+- Github:https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_10_KeyVaultImplementingSecureDatabysettingupAlwaysEncrypted.md
+- Youtube Part 1: https://youtu.be/Z5Japs8SuXA
+- Youtube Part 2: https://youtu.be/FbQGAaZTCXM
 
-LAB_11_SecuringAzureSQLDatabase.MD
+### LAB_11_Securing AzureSQL Database.MD
+- Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_11_SecuringAzureSQLDatabase.MD
+- Youtube: https://youtu.be/cpANzPsW4U0
 
 LAB_12_SecuringAzureStorage.MD
 
