@@ -20,10 +20,14 @@
 - youtube: https://youtu.be/SsWOLneT7pI
 
 ### LAB_05_PIM.md
+- Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_05_PIM.md
+- Youtube: https://youtu.be/pYInHLZy0W4
 
-LAB_06_ImplementDirectorySynchronization.md
+### LAB_06_Implement Directory Synchronization.md
+- github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_06_ImplementDirectorySynchronization.md
+- Youtube: https://youtu.be/I_ki4_Al3WY
 
-LAB_07_NSGs.md
+### LAB_07_NSGs.md
 
 LAB_08_AzureFirewall.md
 
