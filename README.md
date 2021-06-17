@@ -2,14 +2,16 @@
 ##Links to all hands on labs on Youtube for AZ-500 
 
 
-LAB_01_RBAC.md / Lab 01: Role-Based Access Control
-- https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_01_RBAC.md
+###LAB_01_RBAC.md / Lab 01: Role-Based Access Control
+- Github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_01_RBAC.md
 - Youtube: https://youtu.be/XTX9cU4whKI
 
 
-LAB_02_AzurePolicy.md
+###LAB_02_AzurePolicy.md
+- github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_02_AzurePolicy.md
+- Youtube: https://youtu.be/ncsaiabdoXs
 
-LAB_03_AzureLocks.md
+###LAB_03_AzureLocks.md
 
 LAB_04_MFAConditionalAccessandAADIdentityProtection.md
 
