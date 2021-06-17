@@ -12,6 +12,8 @@
 - Youtube: https://youtu.be/ncsaiabdoXs
 
 ### LAB_03_AzureLocks.md
+- github: https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/blob/master/Instructions/Labs/LAB_03_AzureLocks.md
+- Youtube: https://youtu.be/RcKwIOqCRNc
 
 LAB_04_MFAConditionalAccessandAADIdentityProtection.md
 
